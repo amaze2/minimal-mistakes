@@ -5,8 +5,8 @@ main:
   - title: "About"
     url: https://amaze2.github.io/minimal-mistakes/about/
   - title: "Posts"
-    url: /posts/
+    url: https://amaze2.github.io/minimal-mistakes/posts/
   - title: "Collections"
-    url: /collection-archive/
+    url: https://amaze2.github.io/minimal-mistakes/collection-archive/
   - title: "Sitemap"
-    url: /sitemap/
+    url: https://amaze2.github.io/minimal-mistakes/sitemap/
